@@ -1,0 +1,36 @@
+body {
+  width: 1189px;
+}
+
+.movie:first-child {
+  width: 100%
+}
+
+.movie  {
+  width: 33%;
+  float: left;
+}
+
+.movie-backdrop {
+  display: none;
+}
+
+.movie-poster {
+  display: block;
+}
+
+article:first-child .movie-backdrop {
+  display: block;
+}
+
+article:first-child .movie-poster{
+  display: none;
+}
+
+.movie-overview {
+  display: none;
+}
+
+article:first-child .movie-overview {
+  display: inline;
+}
