@@ -1,13 +1,9 @@
-body {
-  width: 100%;
-}
-
 .movie:first-child {
   width: 100%
 }
 
 .movie  {
-  width: 33%;
+  width: 33.33333333333333333333333333333333333333333333333333333333333%;
   float: left;
 }
 

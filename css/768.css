@@ -1,4 +1,7 @@
-/* NAVIGATION styles */
+body {
+  padding-bottom: 0px;
+}
+
 .site-logo {
   position: fixed;
   top: 0;
